@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="add_new_task">add new task</string>
+</resources>
